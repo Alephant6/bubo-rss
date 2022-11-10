@@ -111,6 +111,7 @@ To keep your feeds up to date you'll want to [setup a Build Hook](https://www.ne
 - [IFTTT](https://ifttt.com/)
 - [Zapier](https://zapier.com/)
 - [EasyCron](https://www.easycron.com/)
+- [cron-job](https://console.cron-job.org/) √自己使用的方法，最方便
 
 #### Using GitHub Actions
 
