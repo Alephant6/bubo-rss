@@ -1,21 +1,19 @@
 {
-  "Web Development": [    
-    "https://web.dev/feed.xml",
-    "https://v8.dev/blog.atom",
-    "https://alistapart.com/main/feed/",
-    "https://css-tricks.com/feed/",
-    "https://dev.to/feed"
+  "News": [    
+    "https://feedx.net/rss/nhk.xml",
+    "https://feedx.net/rss/infzm.xml",
+    "https://sehseh.substack.com/feed",
+    "http://feeds.bbci.co.uk/news/rss.xml"
   ],
-  "Blogs": [
-    "https://george.mand.is/feed.xml",
-    "https://joy.recurse.com/feed.atom"
+  "Articles": [
+    "https://rsshub.app/zhihu/hotlist",
+    "https://chinadigitaltimes.net/chinese/feed",
+    "https://www.economist.com/sections/china/rss.xml",
+    "https://www.economist.com/finance-and-economics/",
+    "https://www.economist.com/sections/business-finance/rss.xml",
+    "https://www.economist.com/sections/united-states/rss.xml"
   ],
-  "My GitHub Projects": [
-    "https://github.com/georgemandis.atom",
-    "https://github.com/georgemandis/bubo-rss/releases.atom",
-    "https://github.com/georgemandis/konami-js/releases.atom",
-    "https://github.com/georgemandis/konami-js/commits/main.atom",
-    "https://github.com/javascriptforartists/cheer-me-up-and-sing-me-a-song/commits/master.atom",
-    "https://github.com/georgemandis/circuit-playground-midi-multi-tool/commits/master.atom"    
+  "Tools": [
+    "https://rsshub.app/nuist/bulletin/791"
   ]
 }
