@@ -4,11 +4,11 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <title>🦉 Ale Reader</title>
+    <title>🦉 Ale RSS</title>
     <link rel="stylesheet" href="/style.css" />
   </head>
   <body>
-    <h1>🦉 Ale Reader</h1>
+    <h1>🦉 Ale RSS</h1>
 
     {% for group, feeds in data %}
     <h2>{{ group }}</h2>
@@ -44,7 +44,7 @@
 
     <br />
     <hr />
-    <p>Last updated {{ now }}.</p>
+    <p>Last updated <input type="hidden" id="CST" name="CST" value="+08:00">.</p>
     <p>
       Powered by
       <a href="https://github.com/georgemandis/bubo-rss"
