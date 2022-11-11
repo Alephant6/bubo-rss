@@ -1,8 +1,7 @@
 {
   "News": [    
-    "https://feedx.net/rss/nhk.xml",
-    "https://feedx.net/rss/infzm.xml",
-    "https://sehseh.substack.com/feed",
+    "https://www3.nhk.or.jp/rj/podcast/rss/chinese.xml",
+    "https://feedx.net/rss/thepaper.xml",
     "http://feeds.bbci.co.uk/news/rss.xml",
     "https://feedx.net/rss/dw.xml"
   ],
@@ -10,6 +9,7 @@
     "https://rsshub.app/zhihu/hotlist",
     "https://chinadigitaltimes.net/chinese/feed",
     "https://chinadigitaltimes.net/chinese/category/404%e6%96%87%e5%ba%93/feed/",
+    "https://sehseh.substack.com/feed",
     "https://rsshub.app/wyzxwk/article/yulun"
   ],
   "Tools": [
