@@ -6,3 +6,5 @@
 3. [cron-job](https://console.cron-job.org/)：按时自动执行任务1webhooks 
 4. [SimpRead](http://ksria.com/simpread/)：更好的阅读体验+高亮笔记+连接app+输出
 
+## RSS工具
+- [RSSHub](https://docs.rsshub.app/)
