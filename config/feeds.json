@@ -2,7 +2,7 @@
   "News": [    
     "https://www3.nhk.or.jp/rj/podcast/rss/chinese.xml",
     "http://feeds.bbci.co.uk/news/rss.xml",
-    "https://rsshub.app/infzm/2",
+    "https://rsshub.app/zhishifenzi/news",
     "https://rsshub.app/scmp/3",
     "https://feedx.net/rss/dw.xml"
   ],
@@ -11,7 +11,8 @@
     "https://chinadigitaltimes.net/chinese/feed",
     "https://chinadigitaltimes.net/chinese/category/404%e6%96%87%e5%ba%93/feed/",
     "https://sehseh.substack.com/feed",
-    "https://rsshub.app/wyzxwk/article/yulun"
+    "https://rsshub.app/wyzxwk/article/yulun",
+    "https://rsshub.app/chinathinktanks/57"
   ],
   "Tools": [
     "https://rsshub.app/nuist/bulletin/791"
